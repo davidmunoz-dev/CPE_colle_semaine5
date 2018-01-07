@@ -1,5 +1,7 @@
 # Elementary programming in C
 
+5th stumper of the first year at epitech
+
 Deadline : 4 hours
 
 Group size : 2 person
@@ -12,7 +14,7 @@ In assigned groups of two you must create a project within a limited time frame 
 
 Groups are made up of students from different levels and EVERYONE must be able to explain and demonstrate how the project works. 
 
-If you don't have 15 on the Stumper, you'll come back the following week :)
+If you don't have 15 on the Stumper, you'll come back the following week.
 
 ## Bob ross
 
@@ -52,9 +54,9 @@ Running project
 
 ## Screenshot
 
+![Screenshot](screenshot/screen3.png)
+![Screenshot](screenshot/screen2.png)
 ![Screenshot](screenshot/screen.png)
-![Screenshot1](screenshot/screen1.png)
-![Screenshot2](screenshot/screen2.png)
 
 ## Build with
 
